@@ -1,3 +1,3 @@
-**Titanic Classification**
+# Titanic Classification
 
-**Dataset:**   https://www.kaggle.com/c/titanic
+**Dataset:** https://www.kaggle.com/c/titanic
